@@ -1,0 +1,121 @@
+﻿<Window x:Class="lab_9_new.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab_9_new"
+        mc:Ignorable="d"
+        Title="Entity Framework" Height="450" Width="800">
+    <Window.Resources>
+        <local:ByteArrayToImageConverter x:Key="ByteArrayToImageConverter"/>
+    </Window.Resources>
+
+    <Grid>
+        <TabControl>
+            <TabItem Header="Book" Loaded="TabItem_Loaded">
+                <StackPanel>
+                    <DataGrid AutoGenerateColumns="False" x:Name="bookGrid">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Id" Binding="{Binding Id}" />
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                            <DataGridTextColumn Header="AuthorId" Binding="{Binding AuthorId}" />
+                            <DataGridTextColumn Header="PageCount" Binding="{Binding PageCount}" />
+                            <DataGridTextColumn Header="PublisherId" Binding="{Binding PublisherId}" />
+                            <DataGridTextColumn Header="YearPublished" Binding="{Binding YearPublished}" />
+                            <DataGridTextColumn Header="Format" Binding="{Binding Format}" />
+                            <DataGridTemplateColumn Header="Image">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Image Width="100" Height="100" Source="{Binding Images, Converter={StaticResource ByteArrayToImageConverter}}" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel HorizontalAlignment="Center"  Grid.Row="1" Orientation="Horizontal" Margin="10">
+                        <Button x:Name="trans" Content="SQL" Margin="5" Width="50" Click="trans_Click"/>
+                        <Button x:Name="addButton" Content="Add" Height="30" Width="60" Margin="5" Click="addButton_Click"/>
+                        <Button x:Name="updateButton" Content="Update" Height="30" Width="60" Margin="5" Click="updateButton_Click"/>
+                        <Button x:Name="deleteButton" Content="Delete" Width="60" Margin="5" Click="deleteButton_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Author" Loaded="TabItem_Loaded_1">
+                <StackPanel>
+                    <DataGrid AutoGenerateColumns="False" x:Name="authorGrid">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Id}" Header="Id" Width="120"/>
+                            <DataGridTextColumn Binding="{Binding Name}" Header="Name" Width="125"/>
+                            <DataGridTextColumn Binding="{Binding Surname}" Header="Surname" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding Patronymic}" Header="Patronymic" Width="120"/>
+                            <DataGridTextColumn Binding="{Binding DateOfBirth}" Header="DateOfBirth" Width="80"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel HorizontalAlignment="Center"  Grid.Row="1" Orientation="Horizontal" Margin="10">
+
+                        <Button x:Name="adddButton" Content="Add" Height="30" Width="60" Margin="5" Click="adddButton_Click"/>
+                        <Button x:Name="updButton" Content="Update" Height="30" Width="60" Margin="5" Click="updButton_Click"/>
+                        <Button x:Name="delButton" Content="Delete" Width="60" Margin="5" Click="delButton_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Publisher" Loaded="TabItem_Loaded_2">
+                <StackPanel>
+                    <DataGrid AutoGenerateColumns="False" x:Name="publGrid">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Id}" Header="Id" Width="120"/>
+                            <DataGridTextColumn Binding="{Binding Name}" Header="Name" Width="125"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel HorizontalAlignment="Center"  Grid.Row="1" Orientation="Horizontal" Margin="10">
+
+                        <Button x:Name="adButton" Content="Add" Height="30" Width="60" Margin="5" Click="adButton_Click"/>
+                        <Button x:Name="updtButton" Content="Update" Height="30" Width="60" Margin="5" Click="updtButton_Click"/>
+                        <Button x:Name="dellButton" Content="Delete" Width="60" Margin="5" Click="dellButton_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Sort" Name="SotrBooks" Loaded="SotrBooks_Loaded" >
+                <StackPanel Orientation="Vertical">
+                    <Label Content="Here you can see books sorted by PageCount" FontSize="20" FontWeight="Bold"/>
+                    <DataGrid AutoGenerateColumns="False" x:Name="bookGridSort">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Name}" Header="Name" Width="120"/>
+                            <DataGridTextColumn Binding="{Binding AuthorId}" Header="Author_id" Width="125"/>
+                            <DataGridTextColumn Binding="{Binding PageCount}" Header="Page_count" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding PublisherId}" Header="Publisher_id" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding YearPublished}" Header="Year" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding Format}" Header="Format" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding Images}" Header="Images" Width="80"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Search" Name="FiltrBooks" >
+                <StackPanel Orientation="Vertical">
+                    <Label Content="Here you can see books with same author" FontSize="20" FontWeight="Bold"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Write autor id:"/>
+                        <TextBox x:Name="a_i" Width="300" Margin="3" BorderBrush="Aquamarine"/>
+                        <Button x:Name="filtr" Content="Search!" Width="100" Margin="30,0,0,0" BorderBrush="AliceBlue" Click="filtr_Click" />
+                    </StackPanel>
+                    <DataGrid AutoGenerateColumns="False" x:Name="bookGridFiltr">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Name}" Header="Name" Width="120"/>
+                            <DataGridTextColumn Binding="{Binding AuthorId}" Header="Author_id" Width="125"/>
+                            <DataGridTextColumn Binding="{Binding PageCount}" Header="Page_count" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding PublisherId}" Header="Publisher_id" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding YearPublished}" Header="Year" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding Format}" Header="Format" Width="80"/>
+                            <DataGridTextColumn Binding="{Binding Images}" Header="Images" Width="80"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+        
+    </Grid>
+</Window>

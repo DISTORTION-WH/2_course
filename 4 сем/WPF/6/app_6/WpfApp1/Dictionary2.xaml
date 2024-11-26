@@ -1,0 +1,47 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=System.Runtime">
+    <!-- MainWindow (+AddTovar +Product)-->
+    <system:String x:Key="Name">Название:</system:String>
+    <system:String x:Key="Desc">Описание:</system:String>
+    <system:String x:Key="Price">Цена:</system:String>
+    <system:String x:Key="Amount">Наличие:</system:String>
+    <system:String x:Key="Img">Изображение:</system:String>
+    <system:String x:Key="In">В наличии</system:String>
+    <system:String x:Key="Out">Нет в наличии</system:String>
+    <system:String x:Key="File">Файл</system:String>
+    <system:String x:Key="Edit">Править</system:String>
+    <system:String x:Key="Add">Добавить</system:String>
+    <system:String x:Key="Catalog">Каталог</system:String>
+    <system:String x:Key="Sort">Фильтр</system:String>
+    <system:String x:Key="Search">Поиск</system:String>
+    <system:String x:Key="Choose">Выборка</system:String>
+    <system:String x:Key="Load">Загрузить изображение</system:String>
+    <system:String x:Key="Save">Сохранить</system:String>
+
+    <!-- Table (из названия класса) -->
+    <system:String x:Key="ShortName">Название</system:String>
+
+    <!-- Filtr (+таблица)-->
+    <system:String x:Key="Filtr">Сортировка</system:String>
+    <system:String x:Key="Let">По алфавиту</system:String>
+    <system:String x:Key="Num">По цене</system:String>
+
+    <!-- Search -->
+    <system:String x:Key="EnterN">введите название:</system:String>
+
+    <!-- Choose -->
+    <system:String x:Key="from">от</system:String>
+    <system:String x:Key="to">до</system:String>
+    <system:String x:Key="Show">Показать!</system:String>
+    
+    <!-- Language -->
+    <system:String x:Key="Lang">Язык</system:String>
+    <system:String x:Key="Ru">Русский</system:String>
+    <system:String x:Key="En">Английский</system:String>
+
+    <system:String x:Key="Color">Тема</system:String>
+    <system:String x:Key="d">Тёмная</system:String>
+    <system:String x:Key="l">Светлая</system:String>
+
+</ResourceDictionary>

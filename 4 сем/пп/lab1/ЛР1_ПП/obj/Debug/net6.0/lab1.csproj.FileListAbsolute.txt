@@ -1,0 +1,14 @@
+E:\4 сем\пп\lab1\ЛР1_ПП\bin\Debug\net6.0\lab1.exe
+E:\4 сем\пп\lab1\ЛР1_ПП\bin\Debug\net6.0\lab1.deps.json
+E:\4 сем\пп\lab1\ЛР1_ПП\bin\Debug\net6.0\lab1.runtimeconfig.json
+E:\4 сем\пп\lab1\ЛР1_ПП\bin\Debug\net6.0\lab1.dll
+E:\4 сем\пп\lab1\ЛР1_ПП\bin\Debug\net6.0\lab1.pdb
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\lab1.dll
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\refint\lab1.dll
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\lab1.pdb
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+E:\4 сем\пп\lab1\ЛР1_ПП\obj\Debug\net6.0\ref\lab1.dll

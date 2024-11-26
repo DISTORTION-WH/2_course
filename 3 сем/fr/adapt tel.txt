@@ -1,0 +1,96 @@
+<div className="adapt_tel">
+  <div className="top"><a href="../html/index.html"> <img width="166px" height="31px" src="../images/2.png" className="logo"> </img></a> </div>
+<hr className="hrformob"></hr>
+
+  <div className="container">
+  
+    <input id="toggle" type="checkbox"></input>
+    <label className="toggle-container" for="toggle">
+   
+     <span className="button button-toggle"></span>
+    </label>
+
+    <nav className="nav">
+     <a className="nav-item" href="../html/index.html">Главная</a>
+     <a className="nav-item" href="../sales/sales.html">Акции</a>
+     <a className="nav-item" href="../sorts/sorts.html">Ассортимент</a>
+     <a className="nav-item" href="../contacts/index.html">Контакты</a>
+     <a className="nav-item" href="../faq/index.html">Вопрос-ответ</a>
+     <a className="nav-item" href="../delivery/index.html">Доставка</a>
+     <a className="nav-item" href="../sign-up-form-main/auth.html">Регистрация и вход</a>
+     <a className="nav-item" href="../xml/1.html">Корзина</a>
+     <a className="nav-item" href="../catalog/catalog.html">Запись на покупку каталога</a>
+    </nav>
+   </div>
+
+
+   <div className="fullscreen-bg">
+    <div className="overlay bt">
+        <h1>ВЕСЕННЯЯ РАСПРОДАЖА<br/>АКЦИИ И СКИДКИ<br/>ДО -90%</h1>
+        <button><a className="skidl" href="../sales/sales.html" >Подробнее</a></button>
+    </div>
+    <video loop="" muted="" autoplay="" className="fullscreen-bg__video">
+        <source src="grapefield.mp4" type="video/mp4"/>
+  
+    </video>
+  </div>
+   <p className="podrek">Самые покупаемые товары</p>
+  
+   <div className="swiffy-slider">
+    <ul className="slider-container" style="overflow: hidden;">
+        <li style="display:flex; justify-content: center; align-items: center;">
+          <div className="card" >
+          <div className="image1"></div>
+            <span className="title">Гала</span>
+            <span className="price">11.2 руб</span>
+          </div>
+        </li>
+        <li  style="display:flex; justify-content: center; align-items: center;">
+          <div className="card">
+          <div className="image2"></div>
+            <span className="title">Негруля</span>
+            <span className="price">12.5 руб</span>
+          </div>
+        </li>
+        <li  style="display:flex; justify-content: center; align-items: center;"><div className="card">
+          <div className="image3"></div>
+            <span className="title">Рофшор</span>
+            <span className="price">10.5 руб</span>
+          </div></li>
+
+          <li  style="display:flex; justify-content: center; align-items: center;"><div className="card">
+            <div className="image4"></div>
+              <span className="title">Лиана</span>
+              <span className="price">16.2 руб</span>
+            </div></li>
+
+
+            <li  style="display:flex; justify-content: center; align-items: center;"><div className="card">
+              <div className="image5"></div>
+              <span className="title">Новошер</span>
+              <span className="price">$13.4 руб</span>
+            </div></li>
+
+            <li style="display:flex; justify-content: center; align-items: center;"><div className="card">
+              <div className="image6"></div>
+              <span className="title">Восторг</span>
+              <span className="price">16.2 руб</span>
+            </div></li>
+            <li  style="display:flex; justify-content: center; align-items: center;">
+            <div className="card">
+              <div className="image7"></div>
+                <span className="title">Сидлис</span>
+                <span className="price">6.99 руб</span>
+              </div>
+            </li>
+
+    </ul>
+    <button type="button" className="slider-nav"></button>
+    <button type="button" className="slider-nav slider-nav-next"></button>
+    <div className="slider-indicators">
+        <button className="active"></button>
+        <button></button>
+        <button></button>
+    </div>
+</div>
+</div>

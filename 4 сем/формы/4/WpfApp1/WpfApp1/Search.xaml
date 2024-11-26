@@ -1,0 +1,50 @@
+﻿<Page x:Class="WpfApp1.Search"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Search">
+    <Page.CommandBindings>
+        <CommandBinding Command="local:CustomCommand.toSearch" Executed="toSearch_Click"></CommandBinding>
+    </Page.CommandBindings>
+
+    
+    
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80*"/>
+            <RowDefinition Height="150*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="198*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="271*"/>
+            <ColumnDefinition Width="529*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="0" Grid.Row="0" Content="{DynamicResource Search}" FontSize="25" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#FFEB27F0" Foreground="White"/>
+        <Label Grid.Column="0" Grid.Row="2" Content="{DynamicResource EnterN}" HorizontalContentAlignment="Stretch" FontSize="16" FontWeight="Bold" VerticalContentAlignment="Stretch" VerticalAlignment="Top"/>
+        <TextBox Grid.Column="0" x:Name="textik" Grid.Row="3" BorderBrush="#FF46E3D1" BorderThickness="2,2,2,2" Margin="0,5,0,0"/>
+        <Button Grid.Column="0" x:Name="toSearch" Grid.Row="5" Margin="20,0,20,0" Content="{DynamicResource Search}" Background="#FF96FF2A" FontSize="20" FontWeight="Bold" BorderBrush="{x:Null}" Click="toSearch_Click"/>
+        <DataGrid x:Name="dataGrid" Grid.Column="1" AutoGenerateColumns="False" Grid.Row="0" Grid.RowSpan="7">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="{StaticResource ShortName}" Binding="{Binding ShortName}" Width="*" />
+                <DataGridTextColumn Header="{StaticResource Desc}" Binding="{Binding Description}" Width="*" />
+                <DataGridTextColumn Header="{StaticResource Price}" Binding="{Binding Price}" Width="*" />
+                <DataGridTextColumn Header="{StaticResource Amount}" Binding="{Binding Quantity}" Width="*" />
+                <DataGridTemplateColumn Header="{StaticResource Img}" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Width="90" Height="90" Source="{Binding ImagePath}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

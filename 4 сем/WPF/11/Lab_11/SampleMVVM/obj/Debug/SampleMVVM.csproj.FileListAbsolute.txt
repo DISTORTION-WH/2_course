@@ -1,0 +1,109 @@
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.pdb
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csprojResolveAssemblyReference.cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.g.cs
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\App.g.cs
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.baml
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.Cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.pdb
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.AssemblyReference.cache
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.g.cs
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\App.g.cs
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.baml
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.cache
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.CoreCompileInputs.cache
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+D:\2k2s\OOP_MY\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.exe.config
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.exe
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.pdb
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\bin\Debug\EntityFramework.dll
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\bin\Debug\EntityFramework.SqlServer.dll
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\bin\Debug\EntityFramework.xml
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\bin\Debug\EntityFramework.SqlServer.xml
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.AssemblyReference.cache
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.SuggestedBindingRedirects.cache
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\Views\MainView.g.cs
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\App.g.cs
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\Views\MainView.baml
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.cache
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.CoreCompileInputs.cache
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.CopyComplete
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.exe
+D:\2k2s\OOP_MY\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.pdb
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.exe.config
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.exe
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.pdb
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\bin\Debug\EntityFramework.dll
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\bin\Debug\EntityFramework.xml
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\Views\MainView.g.cs
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\App.g.cs
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\Views\MainView.baml
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.Up2Date
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.exe
+C:\Users\Anastasia\Desktop\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.pdb
+D:\учёба\оопип\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.exe.config
+D:\учёба\оопип\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.exe
+D:\учёба\оопип\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.pdb
+D:\учёба\оопип\Lab_11\SampleMVVM\bin\Debug\EntityFramework.dll
+D:\учёба\оопип\Lab_11\SampleMVVM\bin\Debug\EntityFramework.SqlServer.dll
+D:\учёба\оопип\Lab_11\SampleMVVM\bin\Debug\EntityFramework.xml
+D:\учёба\оопип\Lab_11\SampleMVVM\bin\Debug\EntityFramework.SqlServer.xml
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.AssemblyReference.cache
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.SuggestedBindingRedirects.cache
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\Views\MainView.g.cs
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\App.g.cs
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\Views\MainView.baml
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.cache
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.CoreCompileInputs.cache
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.CopyComplete
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.exe
+D:\учёба\оопип\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.pdb
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.exe.config
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.exe
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\bin\Debug\SampleMVVM.pdb
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\bin\Debug\EntityFramework.dll
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\bin\Debug\EntityFramework.SqlServer.dll
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\bin\Debug\EntityFramework.xml
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\bin\Debug\EntityFramework.SqlServer.xml
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.AssemblyReference.cache
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\Views\MainView.g.cs
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\App.g.cs
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\Views\MainView.baml
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.cache
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.CoreCompileInputs.cache
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.csproj.CopyComplete
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.exe
+E:\4 сем\WPF\11\Lab_11\SampleMVVM\obj\Debug\SampleMVVM.pdb

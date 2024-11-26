@@ -1,0 +1,7 @@
+C:\Users\Максим\Desktop\oop\patterns\pplabs\lab3p\lab3p\bin\Debug\lab3p.exe.config
+C:\Users\Максим\Desktop\oop\patterns\pplabs\lab3p\lab3p\bin\Debug\lab3p.exe
+C:\Users\Максим\Desktop\oop\patterns\pplabs\lab3p\lab3p\bin\Debug\lab3p.pdb
+C:\Users\Максим\Desktop\oop\patterns\pplabs\lab3p\lab3p\obj\Debug\lab3p.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\oop\patterns\pplabs\lab3p\lab3p\obj\Debug\lab3p.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\oop\patterns\pplabs\lab3p\lab3p\obj\Debug\lab3p.exe
+C:\Users\Максим\Desktop\oop\patterns\pplabs\lab3p\lab3p\obj\Debug\lab3p.pdb

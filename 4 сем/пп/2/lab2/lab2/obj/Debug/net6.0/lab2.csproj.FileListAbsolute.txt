@@ -1,0 +1,29 @@
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.exe
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\refint\lab2.dll
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+C:\Users\Motya\Desktop\лабы 2 курс 2 сем\пп\2\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.dll
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\refint\lab2.dll
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+E:\4 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.exe
+E:\4 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+E:\4 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+E:\4 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.dll
+E:\4 сем\пп\2\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+E:\4 сем\пп\2\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll

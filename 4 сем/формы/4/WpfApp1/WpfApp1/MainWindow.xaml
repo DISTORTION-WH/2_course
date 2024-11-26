@@ -1,0 +1,91 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="OOP4-5" Height="450" Width="800"
+        Cursor="E:\4 сем\формы\4\WpfApp1\WpfApp1\pusheen.cur"
+        Icon="E:\4 сем\формы\4\WpfApp1\WpfApp1\icon.png">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:CustomCommand.SaveToTable" Executed="saveToTable_Click"></CommandBinding>
+        <CommandBinding Command="local:CustomCommand.Load" Executed="Button_Click"></CommandBinding>
+    </Window.CommandBindings>
+
+    <Window.Resources>
+        <local:CursorConverter x:Key="CursorConverter" />
+    </Window.Resources>
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="287*"/>
+            <ColumnDefinition Width="513*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="28*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="69*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" Grid.ColumnSpan="2">
+            <MenuItem Header="{DynamicResource File}">
+                <MenuItem Header="{DynamicResource Add}" x:Name="AddProduct" Click="AddProduct_Click"/>
+                <MenuItem Header="{DynamicResource Catalog}" x:Name="Catalog" CommandTarget="{Binding ElementName=Catalog}" Command="Open"/>
+            </MenuItem>
+            <MenuItem Header="{DynamicResource Edit}">
+                <MenuItem Header="{DynamicResource Sort}" x:Name="Sorted" Click="Sorted_Click"/>
+                <MenuItem Header="{DynamicResource Search}" x:Name="Search" Click="Search_Click"/>
+                <MenuItem Header="{DynamicResource Filtr}" x:Name="Chosen" Click="Chosen_Click" />
+            </MenuItem>
+            <MenuItem Header="{DynamicResource Lang}">
+                <MenuItem Header="{DynamicResource Ru}" x:Name="Ru" Click="Ru_Click" />
+                <MenuItem Header="{DynamicResource En}" x:Name="En" Click="En_Click" />
+            </MenuItem>
+        </Menu>
+
+        <Label Grid.Row="1" Grid.Column="0" Content="{DynamicResource Name}" />
+
+        <Label Content="{DynamicResource Desc}" Grid.Row="3" Grid.Column="0" />
+        <Label Content="{DynamicResource Price}" Grid.Row="5" Grid.Column="0"/>
+        <Label Content="{DynamicResource Amount}" Grid.Row="7" Grid.Column="0"/>
+        <Label Content="{DynamicResource Img}" Grid.Row="9" Grid.Column="0"/>
+        <TextBox x:Name="shortNameTextBox" Grid.Row="2" Grid.Column="0" BorderBrush="Aquamarine" BorderThickness="2,2,2,2"/>
+        <TextBox x:Name="descriptionTextBox" Grid.Row="4" Grid.Column="0" BorderBrush="Aquamarine" BorderThickness="2,2,2,2"/>
+        <TextBox x:Name="priceTextBox" Grid.Row="6" Grid.Column="0" BorderBrush="Aquamarine" BorderThickness="2,2,2,2"/>
+        <StackPanel Grid.Row="8" Grid.Column="0" Orientation="Horizontal">
+            <CheckBox x:Name="inStock" Grid.Column="0" Content="{DynamicResource In}" Margin="5" BorderBrush="Aquamarine" BorderThickness="2,2,2,2" IsChecked="False" Cursor="Arrow"/>
+            <CheckBox x:Name="outStock" Grid.Column="1" Margin="5" Content="{DynamicResource Out}" BorderBrush="Aquamarine" BorderThickness="2,2,2,2"/>
+        </StackPanel>
+        <Button Content="{DynamicResource Load}" Click="Button_Click" Grid.Row="10"/>
+        <Button x:Name="saveToTable" Content="{DynamicResource Save}" Click="saveToTable_Click" Grid.Row="12" Margin="20" Background="#FFD81AE5" FontSize="16" Foreground="White" FontWeight="Bold" BorderBrush="Black"/>
+        <DataGrid x:Name="dataGrid" Grid.Column="1" AutoGenerateColumns="True" Grid.Row="1" Grid.RowSpan="12">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="{DynamicResource ShortName}" Binding="{Binding ShortName}" Width="*" />
+                <DataGridTextColumn Header="{DynamicResource Desc}" Binding="{Binding Description}" Width="*" />
+                <DataGridTextColumn Header="{DynamicResource Price}" Binding="{Binding Price}" Width="*" />
+                <DataGridTextColumn Header="{DynamicResource Amount}" Binding="{Binding Quantity}" Width="*" />
+                <DataGridTemplateColumn Header="{DynamicResource Img}" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Width="90" Height="90" Source="{Binding ImagePath}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Frame x:Name="MyFrame" Grid.ColumnSpan="2" Grid.RowSpan="13" Grid.Row="1">
+        </Frame>
+
+    </Grid>
+</Window>

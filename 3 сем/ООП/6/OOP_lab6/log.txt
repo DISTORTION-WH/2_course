@@ -1,0 +1,4 @@
+21.10.2023 13:21:00
+Error code 2: Uncorrect power.
+Ошибка! Некорректно введена мощность: 870000    at OOP_lab6.Trans..ctor(String Name, Date date, Int32 Power) in E:\1LABS\ООП\6\OOP_lab6\Intellgent.cs:line 102
+   at OOP_Lab6.Program.Main() in E:\1LABS\ООП\6\OOP_lab6\Program.cs:line 21

@@ -1,0 +1,51 @@
+D:\учёба\оопип\app_7\app_7\bin\Debug\net6.0-windows\app_7.exe
+D:\учёба\оопип\app_7\app_7\bin\Debug\net6.0-windows\app_7.deps.json
+D:\учёба\оопип\app_7\app_7\bin\Debug\net6.0-windows\app_7.runtimeconfig.json
+D:\учёба\оопип\app_7\app_7\bin\Debug\net6.0-windows\app_7.dll
+D:\учёба\оопип\app_7\app_7\bin\Debug\net6.0-windows\app_7.pdb
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.csproj.AssemblyReference.cache
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\controls\UserControl1.g.cs
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\controls\UserControl2.g.cs
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\App.g.cs
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7_MarkupCompile.cache
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7_MarkupCompile.lref
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\controls\UserControl1.baml
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\controls\UserControl2.baml
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\MainWindow.baml
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.g.resources
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.AssemblyInfoInputs.cache
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.AssemblyInfo.cs
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.csproj.CoreCompileInputs.cache
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.dll
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\refint\app_7.dll
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.pdb
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\app_7.genruntimeconfig.cache
+D:\учёба\оопип\app_7\app_7\obj\Debug\net6.0-windows\ref\app_7.dll
+E:\4 сем\WPF\7\app_7\app_7\bin\Debug\net6.0-windows\app_7.exe
+E:\4 сем\WPF\7\app_7\app_7\bin\Debug\net6.0-windows\app_7.deps.json
+E:\4 сем\WPF\7\app_7\app_7\bin\Debug\net6.0-windows\app_7.runtimeconfig.json
+E:\4 сем\WPF\7\app_7\app_7\bin\Debug\net6.0-windows\app_7.dll
+E:\4 сем\WPF\7\app_7\app_7\bin\Debug\net6.0-windows\app_7.pdb
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\controls\UserControl1.g.cs
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\controls\UserControl2.g.cs
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\App.g.cs
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7_MarkupCompile.cache
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7_MarkupCompile.lref
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\controls\UserControl1.baml
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\controls\UserControl2.baml
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\MainWindow.baml
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7.g.resources
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7.AssemblyInfoInputs.cache
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7.AssemblyInfo.cs
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7.csproj.CoreCompileInputs.cache
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7.dll
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\refint\app_7.dll
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7.pdb
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\app_7.genruntimeconfig.cache
+E:\4 сем\WPF\7\app_7\app_7\obj\Debug\net6.0-windows\ref\app_7.dll

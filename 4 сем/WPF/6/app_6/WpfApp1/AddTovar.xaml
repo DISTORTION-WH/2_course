@@ -1,0 +1,68 @@
+﻿<Page x:Class="WpfApp1.AddTovar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddTovar"
+      Style="{DynamicResource backPage}">
+    <Page.CommandBindings>
+        <CommandBinding Command="local:CustomCommand.saveto" Executed="saveTo_Click"></CommandBinding>
+        <CommandBinding Command="local:CustomCommand.Load" Executed="Button_Click"></CommandBinding>
+    </Page.CommandBindings>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="287*"/>
+            <ColumnDefinition Width="513*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="69*"/>
+        </Grid.RowDefinitions>
+        <Label Style="{DynamicResource label}" Grid.Row="0" Grid.Column="0" Content="{DynamicResource Name}" />
+
+        <Label Style="{DynamicResource label}" Content="{DynamicResource Desc}" Grid.Row="2" Grid.Column="0" />
+        <Label Style="{DynamicResource label}" Content="{DynamicResource Price}" Grid.Row="4" Grid.Column="0"/>
+        <Label Style="{DynamicResource label}" Content="{DynamicResource Amount}" Grid.Row="6" Grid.Column="0"/>
+        <Label Style="{DynamicResource label}" Content="{DynamicResource Img}" Grid.Row="8" Grid.Column="0"/>
+        <TextBox x:Name="shortNameTextBox" Grid.Row="1" Grid.Column="0" BorderBrush="Aquamarine" BorderThickness="2,2,2,2"/>
+        <TextBox x:Name="descriptionTextBox" Grid.Row="3" Grid.Column="0" BorderBrush="Aquamarine" BorderThickness="2,2,2,2"/>
+        <TextBox x:Name="priceTextBox" Grid.Row="5" Grid.Column="0" BorderBrush="Aquamarine" BorderThickness="2,2,2,2"/>
+        <WrapPanel Grid.Row="7" Grid.Column="0">
+            <StackPanel  Orientation="Horizontal">
+                <CheckBox x:Name="inStock" Grid.Column="0" Style="{DynamicResource StockWhite}" Content="{DynamicResource In}" Margin="5" BorderBrush="Aquamarine" BorderThickness="2,2,2,2" IsChecked="False" Cursor="Arrow"/>
+                <CheckBox x:Name="outStock" Grid.Column="1" Margin="5" Style="{DynamicResource StockWhite}" Content="{DynamicResource Out}" BorderBrush="Aquamarine" BorderThickness="2,2,2,2"/>
+            </StackPanel>
+        </WrapPanel>
+        <Button Content="{DynamicResource Load}" Click="Button_Click" Grid.Row="9"/>
+        <Button x:Name="saveToTable" Content="{DynamicResource Save}" Click="saveTo_Click" Grid.Row="12" Margin="20,10,20,10" Background="#8b00ff" FontSize="16" Foreground="White" FontWeight="Bold" BorderBrush="Black"/>
+        <DataGrid x:Name="dataGrid" Style="{DynamicResource CustomDataGridStyle}" Grid.Column="1" AutoGenerateColumns="False" Grid.Row="0" Grid.RowSpan="12">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="{DynamicResource ShortName}" Binding="{Binding ShortName}" Width="*" />
+                <DataGridTextColumn Header="{DynamicResource Desc}" Binding="{Binding Description}" Width="*" />
+                <DataGridTextColumn Header="{DynamicResource Price}" Binding="{Binding Price}" Width="*" />
+                <DataGridTextColumn Header="{DynamicResource Amount}" Binding="{Binding Quantity}" Width="*" />
+                <DataGridTemplateColumn Header="{DynamicResource Img}" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Width="90" Height="90" Source="{Binding ImagePath}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

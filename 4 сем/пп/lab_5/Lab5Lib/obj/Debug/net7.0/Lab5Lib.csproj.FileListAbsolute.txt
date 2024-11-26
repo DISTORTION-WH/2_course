@@ -1,0 +1,33 @@
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\bin\Debug\net7.0\Lab5Lib.deps.json
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\bin\Debug\net7.0\Lab5Lib.dll
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\bin\Debug\net7.0\Lab5Lib.pdb
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfoInputs.cache
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfo.cs
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.csproj.CoreCompileInputs.cache
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.dll
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\obj\Debug\net7.0\refint\Lab5Lib.dll
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.pdb
+D:\Labs\DP\DP_lab_5\lab05\Lab5Lib\obj\Debug\net7.0\ref\Lab5Lib.dll
+D:\BSTU\Patterni\lab_5\Lab5Lib\bin\Debug\net7.0\Lab5Lib.deps.json
+D:\BSTU\Patterni\lab_5\Lab5Lib\bin\Debug\net7.0\Lab5Lib.dll
+D:\BSTU\Patterni\lab_5\Lab5Lib\bin\Debug\net7.0\Lab5Lib.pdb
+D:\BSTU\Patterni\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\Patterni\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfoInputs.cache
+D:\BSTU\Patterni\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfo.cs
+D:\BSTU\Patterni\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.csproj.CoreCompileInputs.cache
+D:\BSTU\Patterni\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.dll
+D:\BSTU\Patterni\lab_5\Lab5Lib\obj\Debug\net7.0\refint\Lab5Lib.dll
+D:\BSTU\Patterni\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.pdb
+D:\BSTU\Patterni\lab_5\Lab5Lib\obj\Debug\net7.0\ref\Lab5Lib.dll
+E:\4 сем\пп\lab_5\Lab5Lib\bin\Debug\net7.0\Lab5Lib.deps.json
+E:\4 сем\пп\lab_5\Lab5Lib\bin\Debug\net7.0\Lab5Lib.dll
+E:\4 сем\пп\lab_5\Lab5Lib\bin\Debug\net7.0\Lab5Lib.pdb
+E:\4 сем\пп\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 сем\пп\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfoInputs.cache
+E:\4 сем\пп\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfo.cs
+E:\4 сем\пп\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.csproj.CoreCompileInputs.cache
+E:\4 сем\пп\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.dll
+E:\4 сем\пп\lab_5\Lab5Lib\obj\Debug\net7.0\refint\Lab5Lib.dll
+E:\4 сем\пп\lab_5\Lab5Lib\obj\Debug\net7.0\Lab5Lib.pdb
+E:\4 сем\пп\lab_5\Lab5Lib\obj\Debug\net7.0\ref\Lab5Lib.dll

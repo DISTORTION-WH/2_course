@@ -1,0 +1,31 @@
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\bin\Debug\net5.0\lab_4.exe
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\bin\Debug\net5.0\lab_4.deps.json
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\bin\Debug\net5.0\lab_4.runtimeconfig.json
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\bin\Debug\net5.0\lab_4.runtimeconfig.dev.json
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\bin\Debug\net5.0\lab_4.dll
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\bin\Debug\net5.0\ref\lab_4.dll
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\bin\Debug\net5.0\lab_4.pdb
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\lab_4.csproj.AssemblyReference.cache
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\lab_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\lab_4.AssemblyInfoInputs.cache
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\lab_4.AssemblyInfo.cs
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\lab_4.csproj.CoreCompileInputs.cache
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\lab_4.dll
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\ref\lab_4.dll
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\lab_4.pdb
+D:\MYDOCUMENTS\BGTU\labs\ПП\lab_4\obj\Debug\net5.0\lab_4.genruntimeconfig.cache
+E:\4 сем\пп\4\lab_4\bin\Debug\net5.0\lab_4.exe
+E:\4 сем\пп\4\lab_4\bin\Debug\net5.0\lab_4.deps.json
+E:\4 сем\пп\4\lab_4\bin\Debug\net5.0\lab_4.runtimeconfig.json
+E:\4 сем\пп\4\lab_4\bin\Debug\net5.0\lab_4.runtimeconfig.dev.json
+E:\4 сем\пп\4\lab_4\bin\Debug\net5.0\lab_4.dll
+E:\4 сем\пп\4\lab_4\bin\Debug\net5.0\lab_4.pdb
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\lab_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\lab_4.AssemblyInfoInputs.cache
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\lab_4.AssemblyInfo.cs
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\lab_4.csproj.CoreCompileInputs.cache
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\lab_4.dll
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\refint\lab_4.dll
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\lab_4.pdb
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\lab_4.genruntimeconfig.cache
+E:\4 сем\пп\4\lab_4\obj\Debug\net5.0\ref\lab_4.dll

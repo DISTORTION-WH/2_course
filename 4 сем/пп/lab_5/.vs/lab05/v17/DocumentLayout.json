@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSTU\\Patterni\\lab_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DA6F3-DE32-42DC-85AB-90953F69B337}|Lab05\\Lab05.csproj|D:\\BSTU\\Patterni\\lab_5\\lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DA6F3-DE32-42DC-85AB-90953F69B337}|Lab05\\Lab05.csproj|solutionrelative:lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|D:\\BSTU\\Patterni\\lab_5\\lab5lib\\decmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|solutionrelative:lab5lib\\decmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|d:\\bstu\\patterni\\lab_5\\lab5lib\\decsha512.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|solutionrelative:lab5lib\\decsha512.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|D:\\BSTU\\Patterni\\lab_5\\lab5lib\\decrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|solutionrelative:lab5lib\\decrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|D:\\BSTU\\Patterni\\lab_5\\lab5lib\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|solutionrelative:lab5lib\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|D:\\BSTU\\Patterni\\lab_5\\lab5lib\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|solutionrelative:lab5lib\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|D:\\BSTU\\Patterni\\lab_5\\lab5lib\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|solutionrelative:lab5lib\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|D:\\BSTU\\Patterni\\lab_5\\lab5lib\\strwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|solutionrelative:lab5lib\\strwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|D:\\BSTU\\Patterni\\lab_5\\lab5lib\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1AD2CD-FA96-41D2-AC1B-8D5AEB907ED1}|Lab5Lib\\Lab5Lib.csproj|solutionrelative:lab5lib\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\lab05\\Program.cs",
+              "RelativeDocumentMoniker": "lab05\\Program.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\lab05\\Program.cs",
+              "RelativeToolTip": "lab05\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:18:43.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\Constant.cs",
+              "RelativeDocumentMoniker": "Lab5Lib\\Constant.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\Constant.cs",
+              "RelativeToolTip": "Lab5Lib\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:58:05.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecSHA512.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\DecSHA512.cs",
+              "RelativeDocumentMoniker": "Lab5Lib\\DecSHA512.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\DecSHA512.cs",
+              "RelativeToolTip": "Lab5Lib\\DecSHA512.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:58:00.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StrWriter.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\StrWriter.cs",
+              "RelativeDocumentMoniker": "Lab5Lib\\StrWriter.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\StrWriter.cs",
+              "RelativeToolTip": "Lab5Lib\\StrWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:58:04.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecMD5.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\DecMD5.cs",
+              "RelativeDocumentMoniker": "Lab5Lib\\DecMD5.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\DecMD5.cs",
+              "RelativeToolTip": "Lab5Lib\\DecMD5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:58:06.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\IWriter.cs",
+              "RelativeDocumentMoniker": "Lab5Lib\\IWriter.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\IWriter.cs",
+              "RelativeToolTip": "Lab5Lib\\IWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:58:03.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\FileWriter.cs",
+              "RelativeDocumentMoniker": "Lab5Lib\\FileWriter.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\FileWriter.cs",
+              "RelativeToolTip": "Lab5Lib\\FileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:58:02.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecRSA.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\DecRSA.cs",
+              "RelativeDocumentMoniker": "Lab5Lib\\DecRSA.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\DecRSA.cs",
+              "RelativeToolTip": "Lab5Lib\\DecRSA.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:57:59.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\Decorator.cs",
+              "RelativeDocumentMoniker": "Lab5Lib\\Decorator.cs",
+              "ToolTip": "D:\\BSTU\\Patterni\\lab_5\\Lab5Lib\\Decorator.cs",
+              "RelativeToolTip": "Lab5Lib\\Decorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:23:41.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

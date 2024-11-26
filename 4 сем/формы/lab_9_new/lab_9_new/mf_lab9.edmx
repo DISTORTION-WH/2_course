@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl" Namespace="mf_lab9.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005">
+        <EntityContainer Name="mf_lab9TargetContainer" >
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="mf_lab9" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="mf_lab9Container" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="bookkSet" EntityType="mf_lab9.bookk" />
+          <EntitySet Name="authorrSet" EntityType="mf_lab9.authorr" />
+          <EntitySet Name="publSet" EntityType="mf_lab9.publ" />
+          <AssociationSet Name="publbookk" Association="mf_lab9.publbookk">
+            <End Role="publ" EntitySet="publSet" />
+            <End Role="bookk" EntitySet="bookkSet" />
+          </AssociationSet>
+          <AssociationSet Name="authorrbookk" Association="mf_lab9.authorrbookk">
+            <End Role="authorr" EntitySet="authorrSet" />
+            <End Role="bookk" EntitySet="bookkSet" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="bookk">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" Nullable="false" />
+          <Property Name="author" Type="String" Nullable="false" />
+          <Property Name="pages" Type="String" Nullable="false" />
+          <Property Name="format" Type="String" Nullable="false" />
+          <Property Name="publisher" Type="String" Nullable="false" />
+          <NavigationProperty Name="publ" Relationship="mf_lab9.publbookk" FromRole="bookk" ToRole="publ" />
+          <NavigationProperty Name="authorr" Relationship="mf_lab9.authorrbookk" FromRole="bookk" ToRole="authorr" />
+        </EntityType>
+        <EntityType Name="authorr">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" Nullable="false" />
+          <Property Name="surname" Type="String" Nullable="false" />
+          <Property Name="dateofbirth" Type="String" Nullable="false" />
+          <NavigationProperty Name="bookk" Relationship="mf_lab9.authorrbookk" FromRole="authorr" ToRole="bookk" />
+        </EntityType>
+        <EntityType Name="publ">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name_publ" Type="String" Nullable="false" />
+          <NavigationProperty Name="bookk" Relationship="mf_lab9.publbookk" FromRole="publ" ToRole="bookk" />
+        </EntityType>
+        <Association Name="publbookk">
+          <End Type="mf_lab9.publ" Role="publ" Multiplicity="1" />
+          <End Type="mf_lab9.bookk" Role="bookk" Multiplicity="*" />
+        </Association>
+        <Association Name="authorrbookk">
+          <End Type="mf_lab9.authorr" Role="authorr" Multiplicity="1" />
+          <End Type="mf_lab9.bookk" Role="bookk" Multiplicity="*" />
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+        <Alias Key="Model" Value="mf_lab9" />
+        <Alias Key="Target" Value="mf_lab9.Store" />
+        <EntityContainerMapping CdmEntityContainer="mf_lab9Container" StorageEntityContainer="mf_lab9TargetContainer">
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

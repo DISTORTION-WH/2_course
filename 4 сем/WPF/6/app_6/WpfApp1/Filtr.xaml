@@ -1,0 +1,50 @@
+﻿<Page x:Class="WpfApp1.Filtr"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Filtr"
+      Style="{DynamicResource backPage}">
+    <Page.CommandBindings>
+        <CommandBinding Command="local:CustomCommand.Letters" Executed="Letters_Click"></CommandBinding>
+        <CommandBinding Command="local:CustomCommand.Numbers" Executed="Numbers_Click"></CommandBinding>
+    </Page.CommandBindings>
+
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="151*"/>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="99*"/>
+            <RowDefinition Height="120*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="273*"/>
+            <ColumnDefinition Width="527*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="{DynamicResource Sort}" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Center" Background="#8b00ff" Foreground="White"/>
+        <Button Grid.Row="2" x:Name="Letters" Grid.Column="0" Content="{DynamicResource Let}" FontSize="16" FontStyle="Italic" Margin="0,0,0,5" Background="#FFFBF086" Click="Letters_Click"/>
+        <Button Grid.Row="3" Style="{StaticResource Numb}" x:Name="Numbers" Grid.Column="0" Content="{DynamicResource Num}" FontSize="16" FontStyle="Italic" Margin="20,20,20,20" Background="#FFFBF086" Click="Numbers_Click"/>
+        <DataGrid x:Name="dataGrid" Grid.Column="1" Style="{DynamicResource CustomDataGridStyle}" AutoGenerateColumns="False" Grid.Row="0" Grid.RowSpan="5">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="{StaticResource ShortName}" Binding="{Binding ShortName}" Width="*" />
+                <DataGridTextColumn Header="{StaticResource Desc}" Binding="{Binding Description}" Width="*" />
+                <DataGridTextColumn Header="{StaticResource Price}" Binding="{Binding Price}" Width="*" />
+                <DataGridTextColumn Header="{StaticResource Amount}" Binding="{Binding Quantity}" Width="*" />
+                <DataGridTemplateColumn Header="{StaticResource Img}" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Width="90" Height="90" Source="{Binding ImagePath}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

@@ -1,0 +1,148 @@
+import Footer from '../../Footer'
+function Galery() {
+    return (
+<div>
+    
+    <div className="headiv"> 
+        <h2>Фотогалерея</h2>
+    </div>
+<div className="rekcardstop">
+    <div className="swiffy-slider">
+      <ul className="slider-container" style="overflow: hidden;">
+          <li className='tra'>
+            <div className="cardtop" >
+            <a className="image1" href="../galery/otdih/otdih.html"></a>
+            </div>
+
+            <div className="cardtop">
+              <div className="image2"></div>
+              </div>
+
+              <div className="cardtop">
+                <div className="image2"></div>
+                </div>
+
+                <div className="cardtop">
+                  <div className="image2"></div>
+                  </div>
+
+                  <div className="cardtop">
+                    <div className="image2"></div>
+                    </div>
+          </li>
+          
+          
+
+          <li className="tra">
+            <div className="cardtop" >
+            <div className="image1"></div>
+            </div>
+
+            <div className="cardtop">
+              <div className="image2"></div>
+              </div>
+
+              <div className="cardtop">
+                <div className="image2"></div>
+                </div>
+
+                <div className="cardtop">
+                  <div className="image2"></div>
+                  </div>
+
+                  <div className="cardtop">
+                    <div className="image2"></div>
+                    </div>
+          </li>
+          <li className="tra">
+            <div className="cardtop" >
+            <a className="image1"></a>
+            </div>
+
+            <div className="cardtop">
+              <div className="image2"></div>
+              </div>
+
+              <div className="cardtop">
+                <div className="image2"></div>
+                </div>
+
+                <div className="cardtop">
+                  <div className="image2"></div>
+                  </div>
+
+                  <div className="cardtop">
+                    <div className="image2"></div>
+                    </div>
+          </li>
+      </ul>
+  
+      <button type="button" className="slider-nav"></button>
+      <button type="button" className="slider-nav slider-nav-next"></button>
+  
+      <div className="slider-indicators">
+          <button className="active"></button>
+          <button></button>
+          <button></button>
+      </div>
+  </div>
+  
+  </div>
+
+
+<div className="firstline">
+
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  <div className="cardmain shadowmain">
+  </div>
+  
+</div>
+
+
+
+   
+      
+        
+<Footer/>
+
+
+
+</div>
+   )
+}
+
+export default Galery

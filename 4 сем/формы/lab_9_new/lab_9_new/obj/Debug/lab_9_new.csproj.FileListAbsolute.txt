@@ -1,0 +1,143 @@
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\lab_9_new.exe.config
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\lab_9_new.exe
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\lab_9_new.pdb
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\EntityFramework.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\EntityFramework.SqlServer.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\EntityFramework.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\EntityFramework.SqlServer.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.AssemblyReference.cache
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.SuggestedBindingRedirects.cache
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\MainWindow.g.cs
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\App.g.cs
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new_MarkupCompile.cache
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new_MarkupCompile.lref
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\MainWindow.baml
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.g.resources
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.Properties.Resources.resources
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.GenerateResource.cache
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.CoreCompileInputs.cache
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.CopyComplete
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.exe
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new.pdb
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\addBook.g.cs
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\addBook.baml
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\addA.g.cs
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\addA.baml
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\addP.g.cs
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\addP.baml
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\lab_9_new_Content.g.cs
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Options.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Buffers.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Collections.Immutable.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.ComponentModel.Annotations.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Memory.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Numerics.Vectors.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Options.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Buffers.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Collections.Immutable.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Memory.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Numerics.Vectors.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\учёба\оопип\lab_9_new\lab_9_new\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\lab_9_new.exe.config
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\lab_9_new.exe
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\lab_9_new.pdb
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\EntityFramework.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\EntityFramework.SqlServer.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Options.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Buffers.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Collections.Immutable.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.ComponentModel.Annotations.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Memory.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Numerics.Vectors.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\EntityFramework.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\EntityFramework.SqlServer.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Options.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Buffers.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Collections.Immutable.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Memory.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Numerics.Vectors.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.AssemblyReference.cache
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\addA.g.cs
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\addBook.g.cs
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\addP.g.cs
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\MainWindow.g.cs
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\App.g.cs
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new_Content.g.cs
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new_MarkupCompile.cache
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new_MarkupCompile.lref
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\addA.baml
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\addBook.baml
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\addP.baml
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\MainWindow.baml
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new.g.resources
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new.Properties.Resources.resources
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.GenerateResource.cache
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.CoreCompileInputs.cache
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new.csproj.CopyComplete
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new.exe
+E:\4 сем\формы\lab_9_new\lab_9_new\obj\Debug\lab_9_new.pdb

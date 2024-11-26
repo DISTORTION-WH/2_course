@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|c:\\users\\anastasia\\desktop\\lab_11\\samplemvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\commands\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\commands\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\commands\\commandreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\commands\\commandreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|C:\\Users\\Anastasia\\Desktop\\Lab_11\\samplemvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA4A94B-8488-4D7A-A3F2-77903FDB8A6D}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\app.config",
+              "RelativeDocumentMoniker": "SampleMVVM\\app.config",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\app.config",
+              "RelativeToolTip": "SampleMVVM\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-09T19:36:38.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\Commands\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\Commands\\DelegateCommand.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\Commands\\DelegateCommand.cs",
+              "RelativeToolTip": "SampleMVVM\\Commands\\DelegateCommand.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAwwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:10:47.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "SampleMVVM\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:54:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "SampleMVVM\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:09:38.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\ViewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "SampleMVVM\\ViewModels\\StudentViewModel.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAIwFgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:54:36.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\Models\\Book.cs",
+              "RelativeToolTip": "SampleMVVM\\Models\\Book.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:09:03.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "SampleMVVM\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\Views\\MainView.xaml",
+              "RelativeToolTip": "SampleMVVM\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T18:54:36.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandReference.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\Commands\\CommandReference.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\Commands\\CommandReference.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\Commands\\CommandReference.cs",
+              "RelativeToolTip": "SampleMVVM\\Commands\\CommandReference.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:10:42.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\StudentContext.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\StudentContext.cs",
+              "RelativeToolTip": "SampleMVVM\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:10:16.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\Desktop\\Lab_11\\SampleMVVM\\App.xaml.cs",
+              "RelativeToolTip": "SampleMVVM\\App.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:54:36.429Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

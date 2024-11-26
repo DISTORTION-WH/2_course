@@ -1,0 +1,11 @@
+D:\BSTU\Patterni\lab_6\Lab6Lib\bin\Debug\net7.0\Lab6Lib.deps.json
+D:\BSTU\Patterni\lab_6\Lab6Lib\bin\Debug\net7.0\Lab6Lib.dll
+D:\BSTU\Patterni\lab_6\Lab6Lib\bin\Debug\net7.0\Lab6Lib.pdb
+D:\BSTU\Patterni\lab_6\Lab6Lib\obj\Debug\net7.0\Lab6Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\Patterni\lab_6\Lab6Lib\obj\Debug\net7.0\Lab6Lib.AssemblyInfoInputs.cache
+D:\BSTU\Patterni\lab_6\Lab6Lib\obj\Debug\net7.0\Lab6Lib.AssemblyInfo.cs
+D:\BSTU\Patterni\lab_6\Lab6Lib\obj\Debug\net7.0\Lab6Lib.csproj.CoreCompileInputs.cache
+D:\BSTU\Patterni\lab_6\Lab6Lib\obj\Debug\net7.0\Lab6Lib.dll
+D:\BSTU\Patterni\lab_6\Lab6Lib\obj\Debug\net7.0\refint\Lab6Lib.dll
+D:\BSTU\Patterni\lab_6\Lab6Lib\obj\Debug\net7.0\Lab6Lib.pdb
+D:\BSTU\Patterni\lab_6\Lab6Lib\obj\Debug\net7.0\ref\Lab6Lib.dll

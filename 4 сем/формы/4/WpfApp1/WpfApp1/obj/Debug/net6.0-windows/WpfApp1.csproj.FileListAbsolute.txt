@@ -1,0 +1,74 @@
+D:\учёба\оопип\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\учёба\оопип\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\учёба\оопип\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\учёба\оопип\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\учёба\оопип\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\учёба\оопип\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Choose.g.cs
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Choose.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\AddTovar.g.cs
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Filtr.g.cs
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Product.g.cs
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Search.g.cs
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\AddTovar.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Filtr.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Product.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Search.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Dictionary2.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.baml
+D:\учёба\оопип\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+E:\4 сем\формы\4\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+E:\4 сем\формы\4\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+E:\4 сем\формы\4\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+E:\4 сем\формы\4\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+E:\4 сем\формы\4\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Dictionary1.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Dictionary2.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\AddTovar.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Choose.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Filtr.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Product.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Search.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\AddTovar.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Choose.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Filtr.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Product.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Search.baml
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+E:\4 сем\формы\4\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
